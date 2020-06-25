@@ -1,0 +1,11 @@
+.wrapper {
+    padding-top: 50px;
+    background: rgb(167, 36, 19);
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: auto;
+    font-family: 'Markazi Text', serif;
+    font-size: 75px;
+    color: whitesmoke
+  }
