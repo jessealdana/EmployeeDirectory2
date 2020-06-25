@@ -24,7 +24,9 @@
 
  ## Installation
 
-This app will be deployed to GitHub Pages
+This app is deployed to GitHub Pages:
+
+https://jessealdana.github.io/EmployeeDirectory2/
 
  ## Usage
 
