@@ -5,7 +5,7 @@
       "extension": "12",
       "name": "Santa Claus",
       "image": "https://i.ytimg.com/vi/iWQu_et0VHc/hqdefault.jpg",
-      "occupation": "Toy Exporter",
+      "occupation": "Owner",
       "location": "North Pole HQ"
     },
     {
@@ -14,7 +14,7 @@
       "extension": "25",
       "name": "Jessica Claus",
       "image": "https://i.pinimg.com/736x/af/0f/d6/af0fd69601c7e3d5bffa2ec68091dced.jpg",
-      "occupation": "Chief Executive Officer",
+      "occupation": "Owner",
       "location": "North Pole HQ"
     },
     {
@@ -23,8 +23,8 @@
       "extension": "110",
       "name": "Hermey Elf",
       "image": "https://vignette.wikia.nocookie.net/christmasspecials/images/0/09/Hermey.jpg/revision/latest?cb=20181201063135",
-      "occupation": "Dentist",
-      "location": "North Pole Orhodontics"
+      "occupation": "The Dentist",
+      "location": "North Pole HQ"
     },
     {
       "id": 4,
@@ -32,7 +32,7 @@
       "extension": "111",
       "name": "Hank Elf",
       "image": "https://vignette.wikia.nocookie.net/christmasspecials/images/1/1d/ElfForeman.jpg/revision/latest?cb=20181201062315",
-      "occupation": "Lead Toy Maker",
+      "occupation": "Toy Artist",
       "location": "North Pole Toy Barn"
     },
     {
@@ -50,7 +50,7 @@
       "extension": "113",
       "name": "Frida Elf",
       "image": "https://i.pinimg.com/originals/cd/a9/d9/cda9d9e1913b017edd61ea1c001a2068.jpg",
-      "occupation": "Lead Toy Designer",
+      "occupation": "Toy Artist",
       "location": "North Pole Toy Barn"
     },
     {
@@ -59,7 +59,7 @@
       "extension": "200",
       "name": "Rudolph",
       "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/FEGS_NLhvcZ5CIXPRbzJAP_DqfU=/1440x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/OKPXEIHXFYI6REFQ7BHTHPSTBU.jpg",
-      "occupation": "Red Nosed Reindeer",
+      "occupation": "Reindeer",
       "location": "North Pole Ranch"
     },
     {

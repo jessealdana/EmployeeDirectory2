@@ -3,6 +3,7 @@ import "./style.css";
 
 function EmployeeCard(props) {
   return (
+
     <div className="card mb-3">
       <div className="card border">
        <div className="row no-gutters">
